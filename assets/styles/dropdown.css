@@ -1,0 +1,30 @@
+/* dropdown */
+
+li.dropdown {
+    display: inline-block;
+    text-align: center;
+}
+
+.dropdown:hover .inDropdown {
+    display: grid;
+    border-radius: 35px;
+    padding: 20px;
+    margin-left: -50px;
+    margin-top: -47px;
+}
+
+.inDropdown {
+    position: absolute;
+    display: none;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    background-color: #07d100;
+}
+
+.inDropdown a:hover {
+    color: #07d100 !important;
+    background: white !important;
+    border-radius: 20px;
+    padding: 7px;
+    margin: 10px;
+}
