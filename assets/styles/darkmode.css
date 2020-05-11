@@ -5,21 +5,7 @@ body.darkmode {
     color: rgb(227, 227, 227);
 }
 
-
-
 .btn1 {
-    font-family: Arial, Helvetica, sans-serif;
-    background: black;
-    color: rgb(227, 227, 227);
-    text-align: center;
-    border-radius: 100px;
-    list-style-type: none;
-    margin-right: 50px;
-    padding: 10;
-    margin-top: 10px;
-}
-
-.btn2 {
     font-family: Arial, Helvetica, sans-serif;
     background: rgb(227, 227, 227);
     color: rgb(57, 57, 57);
@@ -30,4 +16,16 @@ body.darkmode {
     padding: 10;
     margin-top: 10px;
 
+}
+
+.btn2 {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(57, 57, 57);
+    color: rgb(227, 227, 227);
+    text-align: center;
+    border-radius: 100px;
+    list-style-type: none;
+    margin-right: 50px;
+    padding: 10;
+    margin-top: 10px;
 }
