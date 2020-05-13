@@ -1,5 +1,5 @@
 //dark mode
-function setDark(isDark) {
+setDark = isDark => {
     var darkBtn = document.getElementById('darkBtn')
     var lightBtn = document.getElementById('lightBtn')
 
@@ -19,7 +19,7 @@ if (localStorage.getItem('preferredTheme') == 'dark') {
     setDark(true)
 }
 
-function setDark(isDark) {
+setDark = isDark => {
     var darkBtn = document.getElementById('darkBtn')
     var lightBtn = document.getElementById('lightBtn')
 
