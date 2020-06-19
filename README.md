@@ -8,4 +8,4 @@ Sumber referensi artikel diambil dari website [Alodokter](https://www.alodokter.
 
 Terimakasih kepada [Alodokter](https://www.alodokter.com/) untuk artikelnya dan tentunya kepada [Dicoding](https://www.dicoding.com/) untuk Source code pembelajarannya.
 
-Pages : https://khasogi27.github.io/covid-19/
+[DEMO](https://khasogi27.github.io/covid-19/)
