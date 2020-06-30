@@ -1,6 +1,6 @@
-# Virus Corona (COVID-19)
+# Virus Corona  (COVID-19)
 
-Submission Dicoding (Bertema virus corona)
+Submission Dicoding Academy (Bertema virus corona)
 
 # "keterangan"
 
