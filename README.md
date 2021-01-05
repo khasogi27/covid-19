@@ -1,4 +1,4 @@
-# Virus Corona  (COVID-19)
+# Corona Virus (COVID-19)
 
 Submission [Dicoding Academy](https://www.dicoding.com/) (Bertema virus corona)
 
